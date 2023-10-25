@@ -1,7 +1,5 @@
 # Sendlet: A simple HTML-only blogging platform 🌐
 
-Description
-
 Welcome to Sendlet - the epitome of simplicity in the vast world of blogging. In an era dominated by complex CMS and platforms, Sendlet takes a step back, offering a straightforward HTML-only approach to blogging. No backends, no databases, just pure and simple HTML.
 
 Features
